@@ -5,6 +5,7 @@
 .DS_Store
 public/*
 private/*
-resources/_gen/images/*
+resources/_gen/*
+themes/
 611-backup/
 deploy.sh

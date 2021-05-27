@@ -15,3 +15,4 @@ csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 ## Required
 
 - <i class="fas fa-book"></i> Chapter 5 in *Financial Strategy for Public Managers* [@kioko-marlowe]
+- <i class="fas fa-book"></i> Chapter 3 in *Financial Management in the Public Sector* [@wang2010]

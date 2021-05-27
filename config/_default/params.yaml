@@ -18,7 +18,7 @@ day_night: false
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in font sets in `themes/academic/data/fonts/`
 #   Browse user installed font sets in `data/fonts/`
-font: "sourcesans"
+font: "PublicSans"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
@@ -97,20 +97,20 @@ instructor:
   url: "https://www.cgoodman.com"
   twitter: cbgoodman
   github: cbgoodman
-  office: "212 IASBO"
+  office: "204 IASBO"
   contact_policy: >-
     E-mail is the best way to get in contact with me. I will try to respond to all course-related e-mails within 24 hours (*really*), but also remember that life can be busy and chaotic for everyone (including me!), so if I don't respond to your e-mail right away, don't worry!
-  appointment_url: https://calendly.com/cbgoodman/office-hours
+  appointment_url: https://outlook.office365.com/owa/calendar/PSPA611@mail.niu.edu/bookings/
 
 course:
   number: "PSPA 611"
-  semester: "Spring 2020"
-  days: "Wednesdays"
+  semester: "Fall 2021"
+  days: "Thursdays"
   time: "5:00–10:00 PM"
-  location: "NIU-Hoffman Estates"
-  dates: "March 16–May 8, 2020"
+  location: "NIU-DeKalb"
+  dates: "Aug. 16–Oct. 10, 2021"
   github: "cbgoodman/pspa611"
-  copyrightYear: "2020"
+  copyrightYear: "2021"
 
 university:
   name: Northern Illinois University

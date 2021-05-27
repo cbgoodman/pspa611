@@ -8,7 +8,7 @@ weight: 10
 title: "Public Revenue Analysis & Financial Management"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-# hero_media: eval_hires.png
+# hero_media: pspa611.png
 
 design:
   background:
@@ -20,7 +20,8 @@ design:
     text_color_light: true
 
 cta_note:
-  label: Spring 2020<br>School of Public & Global Affairs<br>Northern Illinois University
+  label: PSPA 611 • Summer 2021<br>School of Public & Global Affairs<br>Northern Illinois University
+
 ---
 
-**PSPA 611**
+**An introduction to local government revenues and financial management practices**
