@@ -1,0 +1,11 @@
+# Font style metadata
+name: Public Sans
+
+# Optional Google font URL
+google_fonts: 'Public+Sans:400,400i,700,700i'
+
+# Font families
+heading_font: Public Sans
+body_font: Public Sans
+nav_font: Public Sans
+mono_font: '"Inconsolata", "Liberation Mono", Menlo, Courier, monospace'
