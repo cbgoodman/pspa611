@@ -536,6 +536,7 @@ Legislators&lt;/a&gt;,” pg 55-65 (Individual and corporate income tax).&lt;/li
 &lt;li&gt;&lt;a href=&#34;#late-assignments&#34;&gt;Late Assignments&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#academic-integrity&#34;&gt;Academic Integrity&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#accessibility&#34;&gt;Accessibility&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#name-and-pronoun-statement&#34;&gt;Name and Pronoun Statement&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#assignments-and-grades&#34;&gt;Assignments and grades&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#star-wars&#34;&gt;Star Wars&lt;/a&gt;&lt;/li&gt;
@@ -579,6 +580,10 @@ table {
 &lt;/p&gt;
 &lt;div id=&#34;course-objectives&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Course objectives&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Theories and politics of taxation, features and impacts of alternative revenue generation methods, and financial management topics including procurement and procurement systems, enterprise resource planning systems, and contract management.&lt;/p&gt;
+&lt;p&gt;— NIU Graduate Catalog&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;This course is one of the two core budgeting and finance courses in the NIU MPA curriculum. Students will be introduced to the economics of and the theoretical basis for government financial activity, as well as the linkages between the expenditure and revenue sides of budgeting and financial administration. A significant portion of the course will be spent investigating various revenue sources available to public sector entities, the economic characteristics of each source, as well as the relative advantages and disadvantages of the various revenue sources under different economic and political conditions. Principles of financial accounting will be learned. Armed with this knowledge, we will also discuss the relationship between public finance and economic development. The remainder of the course will focus on financial administration and on policy discussion based on analytical papers and presentations by members of the class.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;learning-outcomes&#34; class=&#34;section level2&#34;&gt;
@@ -589,16 +594,104 @@ table {
 &lt;p&gt;&lt;strong&gt;Application.&lt;/strong&gt; Beyond foundational, students also learn how to engage in some kind of action; doing something. This is where they start to see their foundational knowledge as useful because they can apply what they are learning. At the application stage, students are still taking a lot of direction on what to do, when, and how. This could be something creative or practical such as writing a memo, creating a budget or learning how to manage more complex projects (but not managing it themselves yet). The student can use the concept of cost efficiency or citizen engagement and correctly apply it to an issue or situation that is the object of the memo.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Integration.&lt;/strong&gt; At this stage, students have specialized knowledge (foundational) and are able to apply that knowledge(application) but they also see and understand the connection between ideas, people or classes and work. This act of making new connections raises their intellectual capacity to the highest stage of learning. Integration also means they are able to successfully manage whole projects and make critical decisions about its design, working independently (under guidance). At this stage, students should be able to bring information from a variety of sources (examples: theory, demographic data, opinions of elected officials, new research etc.) and integrate that information into their work. A student could integrate the concepts of cost efficiency and citizen engagement to address a complex problem or issue and propose creative solutions to a dilemma. Students don’t see themselves as separate from what is happening around them, but see themselves as connected to everyone and everything. It is expected that most students will not reach the integration stage until they are near completion of the program and beyond.&lt;/p&gt;
 &lt;p&gt;This course (PSPA 611) is designed to address the following program competencies:&lt;/p&gt;
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;Effectively work with internal and external stakeholders (&lt;em&gt;foundation&lt;/em&gt;)&lt;/li&gt;
-&lt;li&gt;Use strategic management to facilitate goal identification and execution (&lt;em&gt;application&lt;/em&gt;)&lt;/li&gt;
-&lt;li&gt;Apply decision-making theories to frame and solve public service problems (&lt;em&gt;application&lt;/em&gt;)&lt;/li&gt;
-&lt;li&gt;Conduct environmental scans and identify the windows of opportunity to influence decisions (&lt;em&gt;application&lt;/em&gt;)&lt;/li&gt;
-&lt;li&gt;Evaluate public service issues in terms of effectiveness, efficiency, equity and economy (&lt;em&gt;application&lt;/em&gt;)&lt;/li&gt;
-&lt;li&gt;Communicate effectively both orally (public speaking) and in writing (analytical and persuasive) for a public service organization and in the public policy process. (&lt;em&gt;application&lt;/em&gt;)&lt;/li&gt;
-&lt;li&gt;Understand and listen critically to diverse perspectives to address public service issues (&lt;em&gt;application&lt;/em&gt;)&lt;/li&gt;
-&lt;li&gt;Develop or adapt policies, programs, goods or services to accommodate changing social demographics for the population they serve. (&lt;em&gt;application/integration&lt;/em&gt;)&lt;/li&gt;
-&lt;/ol&gt;
+&lt;div class=&#34;centered-table&#34;&gt;
+
+&lt;table class=&#34;table&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left;&#34;&gt;
+Competency
+&lt;/th&gt;
+&lt;th style=&#34;text-align:left;&#34;&gt;
+Assignment
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;&#34;&gt;
+Level
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Effectively work with internal and external stakeholders
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Memos
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+F
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Use strategic management to facilitate goal identification and execution
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Memos, Revenue Analysis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Apply decision-making theories to frame and solve public service problems
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Memos
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Conduct environmental scans and identify the windows of opportunity to influence decisions
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Memos, Revenue Analysis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Evaluate public service issues in terms of effectiveness, efficiency, equity and economy )
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Memos, Revenue Analysis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Communicate effectively both orally (public speaking) and in writing (analytical and persuasive) for a public service organization and in the public policy process.
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Memos, Revenue Analysis, Presentation
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Develop or adapt policies, programs, goods or services to accommodate changing social demographics for the population they serve.
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Revenue Analysis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A/I
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;div&gt;
+
 &lt;/div&gt;
 &lt;div id=&#34;course-materials&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Course materials&lt;/h2&gt;
@@ -606,7 +699,7 @@ table {
 &lt;h3&gt;Books&lt;/h3&gt;
 &lt;p&gt;We will use two physical textbooks. There are three official textbooks for the class:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;i class=&#34;fas fa-book&#34;&gt;&lt;/i&gt; &lt;span class=&#34;citation&#34;&gt;&lt;a href=&#34;#ref-bland2013&#34; role=&#34;doc-biblioref&#34;&gt;Robert L Bland, &lt;em&gt;A Budget Guide for Local Government&lt;/em&gt;, 3rd ed. (Washington, DC: ICMA Press, 2013)&lt;/a&gt;.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;i class=&#34;fas fa-book&#34;&gt;&lt;/i&gt; &lt;span class=&#34;citation&#34;&gt;&lt;a href=&#34;#ref-blandoverton2019&#34; role=&#34;doc-biblioref&#34;&gt;Robert L. Bland and Michael R. Overton, &lt;em&gt;A Budget Guide for Local Government&lt;/em&gt;, 4th ed. (Washington, DC: ICMA Press, 2019)&lt;/a&gt;.&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;i class=&#34;fas fa-book&#34;&gt;&lt;/i&gt; &lt;span class=&#34;citation&#34;&gt;&lt;a href=&#34;#ref-fisher2016&#34; role=&#34;doc-biblioref&#34;&gt;Ronald C. Fisher, &lt;em&gt;State and Local Public Finance&lt;/em&gt;, 4th ed. (New York: Routledge, 2016)&lt;/a&gt;.&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;i class=&#34;fas fa-book&#34;&gt;&lt;/i&gt; &lt;span class=&#34;citation&#34;&gt;&lt;a href=&#34;#ref-kioko-marlowe&#34; role=&#34;doc-biblioref&#34;&gt;Sharon Kioko and Justin Marlowe, &lt;em&gt;Financial Strategy for Public Managers&lt;/em&gt; (Seattle, WA: The Rebus Foundation, 2017), &lt;a href=&#34;https://press.rebus.community/financialstrategy/&#34; role=&#34;doc-biblioref&#34;&gt;https://press.rebus.community/financialstrategy/&lt;/a&gt;&lt;/a&gt;.&lt;/span&gt; &lt;a href=&#34;https://press.rebus.community/financialstrategy/&#34;&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -628,7 +721,7 @@ table {
 &lt;div id=&#34;communications&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Communications&lt;/h3&gt;
 &lt;p&gt;Course announcements will be made via email so it is imperative that you check your e-mail
-daily. “I didn’t get the email” is never a valid excuse. The most effect method of communicating with me is using email; however, you are also encouraged to &lt;a href=&#34;https://calendly.com/cbgoodman/office-hours&#34;&gt;schedule a meeting&lt;/a&gt; at my office or a phone call.&lt;/p&gt;
+daily. “I didn’t get the email” is never a valid excuse. The most effect method of communicating with me is using email; however, you are also encouraged to &lt;a href=&#34;https://outlook.office365.com/owa/calendar/PSPA611@mail.niu.edu/bookings/&#34;&gt;schedule a meeting&lt;/a&gt; at my office or a phone call.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;office-hours&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Office hours&lt;/h3&gt;
@@ -636,7 +729,7 @@ daily. “I didn’t get the email” is never a valid excuse. The most effect m
 &lt;iframe src=&#34;https://player.vimeo.com/video/270014784&#34; width=&#34;640&#34; height=&#34;360&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; fullscreen&#34; allowfullscreen&gt;
 &lt;/iframe&gt;
 &lt;p&gt;Office hours are set times dedicated to all of you. This means that I will be in my office (wistfully) waiting for you to come by with whatever questions you have. This is the best and easiest way to find me outside of class and the best chance for discussing class material and concerns. Please come by!&lt;/p&gt;
-&lt;p&gt;Outside of regularly scheduled office hours, &lt;a href=&#34;https://calendly.com/cbgoodman/office-hours&#34;&gt;you can easily make an appointment with me online&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Outside of regularly scheduled office hours, &lt;a href=&#34;https://outlook.office365.com/owa/calendar/PSPA611@mail.niu.edu/bookings/&#34;&gt;you can easily make an appointment with me online&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I understand these topics are likely new and can be scary. &lt;strong&gt;Do not suffer in silence!&lt;/strong&gt; Come talk to me!&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;laurens-promise&#34; class=&#34;section level3&#34;&gt;
@@ -662,6 +755,15 @@ If a graduate student fails to maintain the standards of academic or professiona
 &lt;h3&gt;Accessibility&lt;/h3&gt;
 &lt;p&gt;If you need an accommodation for this class, please contact the Disability Resource Center as soon as possible. The DRC coordinates accommodations for students with disabilities. It is located on the 4th floor of the Health Services Building, and can be reached at 815-753-1303 or &lt;a href=&#34;mailto:drc@niu.edu&#34;&gt;drc@niu.edu&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Also, please contact me privately as soon as possible so we can discuss your accommodations. Please note that you will not be required to disclose your disability, only your accommodations. The sooner you let me know your needs, the sooner I can assist you in achieving your learning goals in this course.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;name-and-pronoun-statement&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Name and Pronoun Statement&lt;/h3&gt;
+&lt;p&gt;Class rosters and University data systems are provided to faculty with the student’s legal name and legal gender marker. As an NIU student, you are able to change how your preferred/proper name shows up on class rosters. This option is helpful for various student populations, including but not limited to: students who abbreviate their first name; students who use their middle name; international students; and transgender students. As a faculty member, I am committed to using your proper name and pronouns. We will take time during our first class together to do introductions, at which point you can share with all members of our learning community what name and pronouns you use, as you are comfortable. Additionally, if these change at any point during the semester, please let me know and we can develop a plan to share this information with others in a way that is safe for you.
+Should you want to update your preferred/proper name, you can do so by looking at the following guidelines and frequently asked questions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.niu.edu/regrec/preferred_proper_name/index.shtml&#34;&gt;https://www.niu.edu/regrec/preferred_proper_name/index.shtml&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.niu.edu/regrec/preferred_proper_name/preferrednamefaq.shtml&#34;&gt;https://www.niu.edu/regrec/preferred_proper_name/preferrednamefaq.shtml&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div id=&#34;assignments-and-grades&#34; class=&#34;section level2&#34;&gt;
@@ -764,7 +866,6 @@ NA
 &lt;/table&gt;
 &lt;/div&gt;
 &lt;div class=&#34;centered-table&#34;&gt;
-
 &lt;table class=&#34;table&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -855,9 +956,7 @@ F
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;div&gt;
-
-
+&lt;/div&gt;
 &lt;/div&gt;
 &lt;div id=&#34;star-wars&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Star Wars&lt;/h2&gt;
