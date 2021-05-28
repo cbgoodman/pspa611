@@ -2,6 +2,7 @@
 title: Syllabus
 slug: syllabus
 citeproc: true
+toc: true
 bibliography: ../../static/bib/references.bib
 csl: ../../static/bib/chicago-syllabus-no-bib.csl
 output:
@@ -10,15 +11,29 @@ output:
     fig_caption: false
 ---
 
+```{css, echo=FALSE}
+table {
+  display: table;
+}
+.table td {
+  vertical-align: middle;
+  line-height: 1.1;
+}
+```
+
 ```{r load-libraries, message=FALSE, warning=FALSE, include=FALSE}
 library(dplyr)
 library(tibble)
-library(pander)
+library(kableExtra)
 ```
 
 `r blogdown::shortcode("courseinfo")`
 
 ## Course objectives
+
+> Theories and politics of taxation, features and impacts of alternative revenue generation methods, and financial management topics including procurement and procurement systems, enterprise resource planning systems, and contract management.
+>
+> — NIU Graduate Catalog
 
 This course is one of the two core budgeting and finance courses in the NIU MPA curriculum.  Students will be introduced to the economics of and the theoretical basis for government financial activity, as well as the linkages between the expenditure and revenue sides of budgeting and financial administration. A significant portion of the course will be spent investigating various revenue sources available to public sector entities, the economic characteristics of each source, as well as the relative advantages and disadvantages of the various revenue sources under different economic and political conditions. Principles of financial accounting will be learned.  Armed with this knowledge, we will also discuss the relationship between public finance and economic development. The remainder of the course will focus on financial administration and on policy discussion based on analytical papers and presentations by members of the class.
 
@@ -37,20 +52,35 @@ To this end the Department of Public Administration uses a competencies based cu
 
 This course (PSPA 611) is designed to address the following program competencies:
 
-1. Effectively work with internal and external stakeholders (*foundation*)
-2. Use strategic management to facilitate goal identification and execution (*application*)
-3. Apply decision-making theories to frame and solve public service problems (*application*)
-4. Conduct environmental scans and identify the windows of opportunity to influence decisions (*application*)
-5. Evaluate public service issues in terms of effectiveness, efficiency, equity and economy (*application*)
-6. Communicate effectively both orally (public speaking) and in writing (analytical and persuasive) for a  public service organization and in the public policy process. (*application*)
-7. Understand and listen critically to diverse perspectives to address public service issues (*application*)
-8. Develop or adapt policies, programs, goods or services to accommodate changing social demographics for the population they serve. (*application/integration*)
+```{r learning-outcomes, include=FALSE}
+outcomes <- tribble(
+  ~competency, ~assignment, ~level,
+  "Effectively work with internal and external stakeholders", "Memos", "F",
+  "Use strategic management to facilitate goal identification and execution", "Memos, Revenue Analysis", "A",
+  "Apply decision-making theories to frame and solve public service problems", "Memos", "A",
+  "Conduct environmental scans and identify the windows of opportunity to influence decisions", "Memos, Revenue Analysis", "A",
+  "Evaluate public service issues in terms of effectiveness, efficiency, equity and economy )", "Memos, Revenue Analysis", "A",
+  "Communicate effectively both orally (public speaking) and in writing (analytical and persuasive) for a public service organization and in the public policy process.", "Memos, Revenue Analysis, Presentation", "A",
+  "Develop or adapt policies, programs, goods or services to accommodate changing social demographics for the population they serve.", "Revenue Analysis", "A/I"
+)
+```
+
+<div class="centered-table">
+
+```{r show-outcomes-table, echo=FALSE, results="asis"}
+outcomes %>%
+  kbl(align = c("l", "l", "c"),
+      col.names = c("Competency", "Assignment", "Level")) %>%
+  kable_styling(full_width = TRUE)
+```
+
+<div>
 
 ## Course materials
 ### Books
 We will use two physical textbooks. There are three official textbooks for the class:
 
-- <i class="fas fa-book"></i> [@bland2013]
+- <i class="fas fa-book"></i> [@blandoverton2019]
 - <i class="fas fa-book"></i> [@fisher2016]
 - <i class="fas fa-book"></i> [@kioko-marlowe] [](https://press.rebus.community/financialstrategy/)
 
@@ -65,7 +95,7 @@ There will also occasionally be additional articles and videos to read and watch
 ## Course policies
 ### Communications
 Course announcements will be made via email so it is imperative that you check your e-mail
-daily. "I didn't get the email" is never a valid excuse. The most effect method of communicating with me is using email; however, you are also encouraged to [schedule a meeting](https://calendly.com/cbgoodman/office-hours) at my office or a phone call.
+daily. "I didn't get the email" is never a valid excuse. The most effect method of communicating with me is using email; however, you are also encouraged to [schedule a meeting](https://outlook.office365.com/owa/calendar/PSPA611@mail.niu.edu/bookings/) at my office or a phone call.
 
 ### Office hours
 
@@ -76,7 +106,7 @@ Please watch this video:
 
 Office hours are set times dedicated to all of you. This means that I will be in my office (wistfully) waiting for you to come by with whatever questions you have. This is the best and easiest way to find me outside of class and the best chance for discussing class material and concerns. Please come by!
 
-Outside of regularly scheduled office hours, [you can easily make an appointment with me online](https://calendly.com/cbgoodman/office-hours).
+Outside of regularly scheduled office hours, [you can easily make an appointment with me online](https://outlook.office365.com/owa/calendar/PSPA611@mail.niu.edu/bookings/).
 
 I understand these topics are likely new and can be scary. **Do not suffer in silence!** Come talk to me!
 
@@ -107,6 +137,13 @@ If a graduate student fails to maintain the standards of academic or professiona
 If you need an accommodation for this class, please contact the Disability Resource Center as soon as possible. The DRC coordinates accommodations for students with disabilities. It is located on the 4th floor of the Health Services Building, and can be reached at 815-753-1303 or [drc@niu.edu](mailto:drc@niu.edu).
 
 Also, please contact me privately as soon as possible so we can discuss your accommodations. Please note that you will not be required to disclose your disability, only your accommodations. The sooner you let me know your needs, the sooner I can assist you in achieving your learning goals in this course.
+
+### Name and Pronoun Statement
+Class rosters and University data systems are provided to faculty with the student’s legal name and legal gender marker. As an NIU student, you are able to change how your preferred/proper name shows up on class rosters. This option is helpful for various student populations, including but not limited to: students who abbreviate their first name; students who use their middle name; international students; and transgender students. As a faculty member, I am committed to using your proper name and pronouns. We will take time during our first class together to do introductions, at which point you can share with all members of our learning community what name and pronouns you use, as you are comfortable. Additionally, if these change at any point during the semester, please let me know and we can develop a plan to share this information with others in a way that is safe for you.
+Should you want to update your preferred/proper name, you can do so by looking at the following guidelines and frequently asked questions:
+
+  - [https://www.niu.edu/regrec/preferred_proper_name/index.shtml](https://www.niu.edu/regrec/preferred_proper_name/index.shtml)
+  - [https://www.niu.edu/regrec/preferred_proper_name/preferrednamefaq.shtml](https://www.niu.edu/regrec/preferred_proper_name/preferrednamefaq.shtml)
 
 ## Assignments and grades
 You can find descriptions for all the assignments on the [assignments page](/assignment).
@@ -140,10 +177,10 @@ grading <- tribble(
 assignments_total <- tibble(Assignment = "Total",
                             Points = sum(assignments$Points),
                             Percent = NA)
-
 bind_rows(assignments, assignments_total) %>%
   select(Assignment, Points, Percent) %>%
-  pandoc.table(justify = "lcc", missing = "—")
+  kbl(align = c("l", "c", "c")) %>%
+  kable_styling(full_width = FALSE)
 ```
 </div>
 
@@ -151,11 +188,12 @@ bind_rows(assignments, assignments_total) %>%
 
 ```{r show-grades-table, echo=FALSE, results="asis"}
 grading %>%
-  pandoc.table(justify = "lclc",
-               col.names = c("Grade", "Range", "Grade", "Range"))
+  kbl(align = c("l", "c", "l", "c"),
+      col.names = c("Grade", "Range", "Grade", "Range")) %>%
+  kable_styling(full_width = FALSE)
 ```
 
-<div>
+</div>
 
 
 ## Star Wars

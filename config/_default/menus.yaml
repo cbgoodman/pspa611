@@ -5,18 +5,22 @@ main:
   - name: Schedule
     url: /schedule/
     weight: 2
-  - name: Readings
-    url: /reading/
+  - name: Content
+    url: /content/
     weight: 3
   - name: Assignments
     url: /assignment/
     weight: 4
-  - name: Classes
-    url: /class/
-    weight: 5
   - name: Reference
     url: /reference/
-    weight: 6
+    weight: 5
+
+content:
+  - name: Overview
+    weight: 1
+  - name: Course content
+    weight: 2
+
 assignment:
   - name: Assignments
     weight: 1

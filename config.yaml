@@ -1,7 +1,6 @@
-baseurl: https://pspa611.cgoodman.com/
-defaultContentLanguage: en
-title: "Revenue Analysis & Financial Management"
-theme: hugo-academic
+title: Revenue Analysis & Financial Management
+baseurl: "https://pspa611.cgoodman.com/"
+theme1: wowchemy-hugo-modules
 
 
 # ------------------
@@ -9,37 +8,54 @@ theme: hugo-academic
 # ------------------
 permalinks:
   post: "/:year/:month/:day/:slug/"
-buildFuture: True
+buildFuture: yes
 publishdir: "docs"
+
+ignoreFiles:
+  - \.ipynb$
+  - .ipynb_checkpoints$
+  - \.Rmd$
+  - \.Rmarkdown$
+  - _cache$
+  - \.Rproj.user$
+  - \.Rhistory$
+  - \.knit\.md$
+  - \.utf8\.md$
 
 # No taxonomy
 disableKinds:
   - taxonomy
   - taxonomyTerm
+
+imaging:
+  anchor: smart
+  quality: 75
+  resampleFilter: lanczos
+
+# Markdown options
 markup:
   defaultMarkdownHandler: goldmark
   goldmark:
     renderer:
       unsafe: true
   highlight:
-    codeFences: false
+    codeFences: true
+    guessSyntax: true
+    style: "monokai"
   tableOfContents:
     startLevel: 2
     endLevel: 4
-imaging:
-  resampleFilter: lanczos
-  quality: 90
-  anchor: smart
-
-
-copyright: ''
-enableGitInfo: true
-hasCJKLanguage: false
-defaultContentLanguageInSubdir: false
-removePathAccents: true
-paginate: 10
-enableEmoji: true
 footnotereturnlinkcontents: <sup>^</sup>
+
+defaultContentLanguage: en
+copyright: ''
+enableGitInfo: no
+hasCJKLanguage: no
+defaultContentLanguageInSubdir: no
+removePathAccents: yes
+summaryLength: 30
+paginate: 10
+enableEmoji: yes
 
 
 # ----------------
@@ -56,16 +72,21 @@ outputs:
     - RSS
 mediaTypes:
   application/manifest+json:
-    suffixes:
-      - webmanifest
+    suffixes: webmanifest
 outputFormats:
   WebAppManifest:
     mediaType: application/manifest+json
     rel: manifest
-ignoreFiles:
-  - \.ipynb$
-  - .ipynb_checkpoints$
-  - \.Rmd$
-  - \.Rmarkdown$
-  - _files$
-  - _cache$
+enableRobotsTXT: yes
+
+taxonomies:
+  author: authors
+  category: categories
+  publication_type: publication_types
+  tag: tags
+
+theme: wowchemy-hugo-modules
+
+module:
+  imports:
+    - path: wowchemy-hugo-modules/wowchemy

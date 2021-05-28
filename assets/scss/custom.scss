@@ -1,4 +1,20 @@
-h1, h2 {
+// Inferno colors
+$colors: (
+    #0D0887,  /* Blue Trust */
+    #5601A4,  /* Aubergine Perl */
+    #900DA4,  /* Violet Eggplant */
+    #BF3984,  /* Medium Red Violet */
+    #E16462,  /* Briquette */
+    #F89441,  /* Chat Orange */
+    #FCCE25   /* Lemon Punch */
+);
+
+body {
+    font-size: 1.1rem;
+}
+
+h1,
+h2 {
     font-weight: 700;
 }
 
@@ -11,12 +27,50 @@ h2 {
     margin-top: 2.75rem;
 }
 
+.article-style h2:first-child,
+.article-style h2:first-of-type {
+    margin-top: 0.75rem;
+}
+
+h3 {
+    font-size: 1.4rem;
+}
+
+kbd {
+    font-size: 75%;
+}
+
+.highlight pre, .highlight code {
+    background-color: transparent;
+}
+
+.highlight>div,
+.highlight>pre {
+    margin: 0 0 2rem;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
+pre {
+    font-size: 0.75em;
+    line-height: 1.4;
+    margin: 0;
+}
+
+code {
+    font-size: 85%;
+}
+
 .article-container {
     max-width: 960px;
 }
 
 .docs-article-container {
     max-width: 960px;
+}
+
+.docs-sidebar .nav>li {
+    line-height: 1.2;
 }
 
 #hero img {
@@ -60,7 +114,8 @@ footer p {
     font-size: 0.7rem;
 }
 
-.course-info p, .credits p {
+.course-info p,
+.credits p {
     margin-bottom: 0.3rem;
 }
 
@@ -68,27 +123,127 @@ footer p {
     margin: 0 auto 1rem;
 }
 
-.article-style #TOC:before {
-    content: "Contents";
-    font-size: 1.1rem;
-    font-weight: 700;
-    display: block;
-    background-color: #ddd;
-    padding: 5px 10px 0px;
-    margin-bottom: 1.1rem;
+.docs-search {
+    display: none !important;
+
+    @media (max-width : 768px) {
+        display: block !important;
+    }
+}
+
+.docs-links {
+    padding-top: 2rem;
+    max-height: calc(100vh - 4rem - 0px);
+
+    .docs-toc-link {
+        line-height: 1.2;
+    }
+}
+
+.docs-toc-item {
+    padding-top: 0.75rem;
+}
+
+.docs-links .docs-toc-item:first-child {
+    padding-top: 0;
+}
+
+.docs-toc {
+    padding-top: 2rem;
+}
+
+#TableOfContents {
+    background-color: lighten(nth($colors, 4), 35%);
+    line-height: 1.2;
+    padding-bottom: 0.5em;
+
+    ul {
+        margin-bottom: 0;
+    }
+
+    li {
+        margin: 0.3em 0;
+    }
+
+    li a {
+        font-size: 0.85rem;
+        color: nth($colors, 4);
+        padding: 0.125rem 0.5rem;
+
+        &:focus,
+        &:hover {
+            color: $sta-link-hover;
+        }
+
+        &.active {
+            color: $sta-link-hover !important;
+        }
+    }
+}
+
+.toc-top {
+    background-color: nth($colors, 4);
+
+    li a {
+        font-size: 1.1rem;
+        color: #FFFFFF;
+        padding: 0.25rem 0.5rem;
+        line-height: 1.5;
+
+        &:focus,
+        &:hover {
+            color: #FFFFFF;
+        }
+    }
 }
 
 .article-style #TOC {
-    font-family: "Overpass", sans-serif;
+    font-family: "Public Sans",
+    sans-serif;
     font-size: 0.8rem;
     text-align: left;
-    background: #f2f2f2;
-    padding: 8px 8px;
+    background: lighten(nth($colors, 4), 35%);
+    padding: 0;
     margin: 4px 0 2rem;
+    padding-bottom: 0.5rem;
+
+    ul {
+        padding-left: 0em;
+        list-style-type: none;
+        margin-bottom: 0;
+    }
+
+    li {
+        padding-left: 1.1em;
+    }
+
+    li li {
+        padding-left: 2em;
+    }
+
+    a {
+        color: nth($colors, 4);
+
+        &:focus,
+        &:hover {
+            color: $sta-link-hover;
+        }
+    }
+
+    &:before {
+        content: "Contents";
+        font-size: 1.1rem;
+        font-weight: 700;
+        display: block;
+        color: #ffffff;
+        background-color: nth($colors, 4);
+        padding: 0.1rem 0.8rem 0.1rem;
+        margin-bottom: 0.2rem;
+    }
 }
 
-.article-style #TOC ul {
-    padding-left: 2em;
+.article-style li > p {
+    margin-bottom: 1rem;
 }
 
 .footnotes {
@@ -103,8 +258,17 @@ footer p {
 //     font-size: 1.2rem;
 // }
 
-.fake-header-table, td.mid-table-header {
-    font-family: "Source Sans Pro", sans-serif;
+.ical {
+    font-size: 80%;
+    text-align: center;
+    background-color: lighten(nth($colors, 5), 20%);
+    padding: 0.1rem 0;
+    margin-bottom: 2rem;
+}
+
+.fake-header-table,
+td.mid-table-header {
+    font-family: "IBM Plex Sans Condensed", sans-serif;
     font-weight: 700;
 }
 
@@ -112,7 +276,162 @@ footer p {
     font-size: 1.1rem;
 }
 
+.fake-header-table td {
+    background-color: #FFFFFF !important;
+}
+
+.section-bottom td {
+    border-bottom: 1px solid #4c566a;
+}
+
+// table.schedule > tbody > tr:nth-child(2n+1) > td {
+//     background-color: #fff;
+// }
+
+table>tbody>tr:hover>td,
+table>tbody>tr:hover>th {
+    background-color: #e5e5e5 !important;
+}
+
+table.schedule tr.schedule-bg-1,
+table.schedule>tbody>tr.schedule-bg-1:nth-child(2n+1)>td {
+    background-color: lighten(nth($colors, 5), 25%);
+}
+
+table.schedule tr.schedule-bg-2,
+table.schedule>tbody>tr.schedule-bg-2:nth-child(2n+1)>td {
+    background-color: lighten(nth($colors, 1), 45%);
+}
+
+table.schedule tr.schedule-bg-3,
+table.schedule>tbody>tr.schedule-bg-3:nth-child(2n+1)>td {
+    background-color: lighten(nth($colors, 3), 40%);
+}
+
+table.schedule .content-title {
+    font-weight: bold;
+    color: nth($colors, 3);
+}
+
+.fake-header-table td {
+    padding-top: 1.8rem;
+    border-bottom: 2px solid #4c566a;
+}
+
 td.mid-table-header {
     text-align: center;
     vertical-align: middle !important;
+    font-size: 0.8rem;
+}
+
+.article-style .slide-thumb {
+    margin-top: 0;
+}
+
+.bg-class {
+    background-color: nth($colors, 1);
+}
+
+.bg-content {
+    background-color: nth($colors, 3);
+}
+
+.bg-assignment {
+    background-color: nth($colors, 4);
+}
+
+.question form {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.question p[id^="result_"] {
+    color: nth($colors, 4);
+    padding-top: 1em;
+    width: 75%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.question label {
+    padding-left: 0.4em;
+    font-weight: bold;
+}
+
+div.note,
+div.fyi,
+div.puzzle,
+div.warning {
+    position: relative;
+    padding: 1em 1em 1em 100px;
+    margin: 1em 0;
+    min-height: 120px;
+}
+
+div.note:before,
+div.fyi:before,
+div.puzzle:before,
+div.warning:before {
+    position: absolute;
+    font-family: "FontAwesome";
+    font-size: 70px;
+    top: 0;
+    opacity: 0.5;
+}
+
+div.note {
+    color: nth($colors, 1);
+    background-color: lighten(nth($colors, 1), 60%);
+    border: dotted 4px nth($colors, 1);
+}
+
+div.note:before {
+    content: "\f0eb";
+    left: 30px;
+}
+
+div.fyi {
+    color: nth($colors, 3);
+    background-color: lighten(nth($colors, 3), 60%);
+    border: dotted 4px nth($colors, 3);
+}
+
+div.fyi:before {
+    content: "\f05a";
+    left: 20px;
+}
+
+div.puzzle {
+    color: nth($colors, 4);
+    background-color: lighten(nth($colors, 4), 60%);
+    border: dotted 4px nth($colors, 4);
+}
+
+div.puzzle:before {
+    content: "\f12e";
+    left: 20px;
+}
+
+div.warning {
+    color: #FFFFFF;
+    background-color: nth($colors, 6);
+    border: dotted 4px #FFFFFF;
+}
+
+div.warning:before {
+    content: "\f071";
+    left: 14px;
+}
+
+.img-inline {
+    display: inline-block;
+    height: auto;
+    max-width: 100%;
+    margin: 0 !important;
+}
+
+/* Space after plotly widgets */
+.widgetframe {
+    margin-bottom: 2em;
 }

@@ -1,0 +1,23 @@
+---
+title: "Financial Accounting II"
+linktitle: "5: Financial Accounting II"
+date: "2020-04-15"
+read_date: "2020-04-15"
+menu:
+  content:
+    parent: Course content
+    weight: 5
+type: docs
+toc: true
+bibliography: ../../static/bib/references.bib
+csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
+---
+
+## Required
+
+- <i class="fas fa-book"></i> Chapter 3 in *Financial Strategy for Public Managers* [@kioko-marlowe]
+- <i class="fas fa-book"></i> Chapter 17 in *Management Policies in Local Government Finance*. [@wang2013] Posted on Blackboard.
+
+## Slides
+
+`r blogdown::shortcode("slides")`

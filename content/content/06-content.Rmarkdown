@@ -1,0 +1,23 @@
+---
+title: "Financial Accounting III"
+linktitle: "6: Financial Accounting III"
+date: "2020-04-22"
+read_date: "2020-04-22"
+menu:
+  content:
+    parent: Course content
+    weight: 6
+type: docs
+toc: true
+bibliography: ../../static/bib/references.bib
+csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
+---
+
+## Required
+
+- <i class="fas fa-book"></i> Chapter 5 in *Financial Strategy for Public Managers* [@kioko-marlowe]
+- <i class="fas fa-book"></i> Chapter 3 in *Financial Management in the Public Sector* [@wang2010]
+
+## Slides
+
+`r blogdown::shortcode("slides")`
