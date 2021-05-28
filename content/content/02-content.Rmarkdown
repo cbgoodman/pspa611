@@ -1,8 +1,9 @@
 ---
 title: "Income & Consumption Taxation"
 linktitle: "2: Income & Consumption Taxation"
-date: "2020-03-25"
-read_date: "2020-03-25"
+date: "2021-08-26"
+start_date: "2021-08-23"
+end_date: "2021-08-29"
 menu:
   content:
     parent: Course content

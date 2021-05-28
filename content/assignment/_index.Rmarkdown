@@ -5,16 +5,13 @@ menu:
     parent: Assignments
     weight: 1
 type: docs
-weight: 1
-output:
-  blogdown::html_page:
-    toc: true
+toc: true
 ---
 
 
 ## Preparation
 
-You will get the most out of this class if you (1) attend class, (2) complete all the readings, and (3) engage^[Take detailed notes, work through the example code and try to understand it, have vivid dreams about statistics, etc.]  with the readings.^[Also (4) ask for help!]
+You will get the most out of this class if you (1) attend class, (2) complete all the readings, and (3) engage[^1]  with the readings.[^2]
 
 To encourage attendance and preparation, I use an honor-system-based self-reporting system. At the beginning of every class, I will post a quiz on Blackboard with the following questions:
 
@@ -60,6 +57,10 @@ There is no final exam. This project is your final exam.
 
 ## Presentation
 
-Each student will conduct a brief presentation (roughly 8-12 minutes) of their revenue analysis.^[Hence the need for unique local governments]
+Each student will conduct a brief presentation (roughly 8-12 minutes) of their revenue analysis.[^3]
 
-More guidance about the format/content of the presentation will be distributed after the beginning of the course.
+More guidance about the format/content of the presentation can be found [here](/assignment/presentation/).
+
+[^1]: Take detailed notes, work through the example code and try to understand it, have vivid dreams about statistics, etc.
+[^2]: Also (4) ask for help!
+[^3]: Hence the need for unique local governments

@@ -1,8 +1,9 @@
 ---
 title: "Financial Accounting II"
 linktitle: "5: Financial Accounting II"
-date: "2020-04-15"
-read_date: "2020-04-15"
+date: "2021-09-16"
+start_date: "2021-09-13"
+end_date: "2021-09-19"
 menu:
   content:
     parent: Course content

@@ -1,8 +1,9 @@
 ---
 title: "Procurement"
 linktitle: "7: Procurement"
-date: "2020-04-29"
-read_date: "2020-04-29"
+date: "2021-09-30"
+start_date: "2021-09-27"
+end_date: "2021-10-03"
 menu:
   content:
     parent: Course content

@@ -9,9 +9,6 @@ menu:
     weight: 3
 type: docs
 toc: true
-weight: 3
-editor_options:
-  chunk_output_type: console
 ---
 
 The instructions for this problem set will go live 2 weeks before the deadline.

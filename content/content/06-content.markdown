@@ -1,8 +1,9 @@
 ---
 title: "Financial Accounting III"
 linktitle: "6: Financial Accounting III"
-date: "2020-04-22"
-read_date: "2020-04-22"
+date: "2021-09-23"
+start_date: "2021-09-20"
+end_date: "2021-09-26"
 menu:
   content:
     parent: Course content

@@ -26,5 +26,5 @@ assignment:
     weight: 1
   - name: Memos
     weight: 2
-  - name: Other projects
+  - name: Final Project
     weight: 3

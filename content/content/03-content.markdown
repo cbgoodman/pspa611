@@ -1,8 +1,9 @@
 ---
 title: "Property Taxes & User Fees"
 linktitle: "3: Property Taxes & User Fees"
-date: "2020-04-01"
-read_date: "2020-04-01"
+date: "2021-09-02"
+start_date: "2021-08-30"
+end_date: "2021-09-05"
 menu:
   content:
     parent: Course content

@@ -82,7 +82,7 @@ We will use two physical textbooks. There are three official textbooks for the c
 
 - <i class="fas fa-book"></i> [@blandoverton2019]
 - <i class="fas fa-book"></i> [@fisher2016]
-- <i class="fas fa-book"></i> [@kioko-marlowe] [](https://press.rebus.community/financialstrategy/)
+- <i class="fas fa-book"></i> [@kioko-marlowe] [^1]
 
 ### Recommended
 We will read a few chapters from the below book (the chapters will be on Blackboard). If you are planning on specializing in fiscal administration, you may want to add it to your collection.
@@ -198,6 +198,9 @@ grading %>%
 
 ## Star Wars
 
-Once you have read this entire syllabus and [the assignments page](/assignment/), please [click here](mailto:cgoodman@niu.edu) and e-mail me a picture of a *cute* Star Wars character.^[Baby Yoda, Babu Frik, porgs, etc. are all super fair game.] Brownie points if it's animated.
+Once you have read this entire syllabus and [the assignments page](/assignment/), please [click here](mailto:cgoodman@niu.edu) and e-mail me a picture of a *cute* Star Wars character.[^2] Brownie points if it's animated.
 
 `r blogdown::shortcode("figure", src = "https://media.giphy.com/media/j4q4h9uWKWwnYT1k3Z/giphy.gif", alt = "Baby Yoda with IG-11", lightbox = "false")`
+
+[^1]: [https://press.rebus.community/financialstrategy/](https://press.rebus.community/financialstrategy/)
+[^2]: Baby Yoda, Babu Frik, porgs, etc. are all super fair game.
