@@ -14,7 +14,7 @@ bibliography: ../../static/bib/references.bib
 csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 ---
 
-## Required
+## Required Reading
 
 -   <i class="fas fa-book"></i> Chapter 2 in *Financial Strategy for Public Managers*[^1]
 -   <i class="fas fa-book"></i> Chapter 5 in *Management Policies in Local Government Finance*.[^2] Posted on Blackboard.

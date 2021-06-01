@@ -14,10 +14,16 @@ bibliography: ../../static/bib/references.bib
 csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 ---
 
-## Required
+## Required Reading
 
 - <i class="fas fa-book"></i> Chapter 5 in *Financial Strategy for Public Managers* [@kioko-marlowe]
+- <i class="far fa-file-pdf"></i> "A Historical Overview of Cost Accounting in Local Government" [@rivenbark2005]
+
+## Recommended Reading
+
 - <i class="fas fa-book"></i> Chapter 3 in *Financial Management in the Public Sector* [@wang2010]
+- <i class="far fa-file-pdf"></i> "An Analysis of the Purposes of Cost Accounting in Large U.S. Cities" [@mohr2015]
+- <i class="far fa-file-pdf"></i> "Performance Measurement and Cost Accounting: Are They Complementary or Competing Systems of Control?" [@mohr2016]
 
 ## Slides
 
