@@ -35,6 +35,6 @@ csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 
 [^3]: XiaoHu Wang, *Financial Management in the Public Sector: Tools, Applications, and Cases* (Armonk, NY: M.E. Sharpe, 2010).
 
-[^4]: Zachary T. Mohr, “An Analysis of the Purposes of Cost Accounting in Large u.s. Cities,” *Public Budgeting & Finance* 35, no. 1 (2015): 95–115.
+[^4]: Zachary T. Mohr, “An Analysis of the Purposes of Cost Accounting in Large U.S. Cities,” *Public Budgeting & Finance* 35, no. 1 (2015): 95–115.
 
 [^5]: Zachary T. Mohr, “Performance Measurement and Cost Accounting: Are They Complementary or Competing Systems of Control?” *Public Administration Review* 76, no. 4 (2016): 616–25.
