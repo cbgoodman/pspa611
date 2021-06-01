@@ -30,9 +30,9 @@ To encourage attendance and preparation, I use an honor-system-based self-report
     * I skimmed it (*2 points*)
     * I didn’t read it at all (*0 points*)
 
-<p>Each day is worth 15.5 points. *It is unlikely that you’ll score a 15.5 every day.*^[But it would be amazing if you did!]
+Each day is worth 15.5 points. *It is unlikely that you’ll score a 15.5 every day.*[^3]
 
-I will shift the distribution of everyone’s final preparation score up at the end of the course.
+I will shift the distribution of everyone's final preparation score up at the end of the course.
 
 ## Memos
 
@@ -40,7 +40,7 @@ Memo writing is a key skill in this program. Depending on your background, it ma
 
 In addition to this formatting, I require a short executive summary (1 paragraph) outlining your recommendation and reasoning (on the first page). The logic is that a decision-maker can quickly read what you are recommending and why they should take that course of action. If they need further background or analysis, that's in the full memo.
 
-The department is in the process of adopting a memo writing standard and format. To maintain consistency with PSPA 610, I have included Dr. Thurmaier's [memo format](/static/files/PSPA 610 Memo Reqs.docx). Please abide by this formatting at all times or you will lose points.
+The department is in the process of adopting a memo writing standard and format. To maintain consistency with PSPA 610, I have included Dr. Thurmaier's [memo format](/static/files/pspa-610-memo-reqs.docx). Please abide by this formatting at all times or you will lose points.
 
 ### Links for memo resources
 - [Guide to Writing an Effective Policy Memo](https://educationalequity.org/sites/default/files/documents/best_practices_-_policy_memo.pdf)
@@ -57,10 +57,11 @@ There is no final exam. This project is your final exam.
 
 ## Presentation
 
-Each student will conduct a brief presentation (roughly 8-12 minutes) of their revenue analysis.[^3]
+Each student will conduct a brief presentation (roughly 8-12 minutes) of their revenue analysis.[^4]
 
 More guidance about the format/content of the presentation can be found [here](/assignment/presentation/).
 
 [^1]: Take detailed notes, work through the example code and try to understand it, have vivid dreams about statistics, etc.
 [^2]: Also (4) ask for help!
-[^3]: Hence the need for unique local governments
+[^3]: But it would be amazing if you did!
+[^4]: Hence the need for unique local governments
