@@ -1,0 +1,15 @@
+{
+  "hash": "6629f02095ca17c43d1d4474724e9215",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: Schedule\npage-layout: full\ntbl-colwidths: [5,10,30,5,5,5,5,5,5,5]\n---\n\n\nThis page contains an outline of the topics, content, and assignments for the semester.\nNote that this schedule will be updated as the semester progresses, with all changes documented here.\n\n::: column-page-inset\n|           Week            | Date        | Topic                                                                                                                     |                             Prepare                             |                                   Slides                                   |                                                       AE                                                        |                                                                                                   Lab                                                                                                   |                                                                                       HW                                                                                       |                            Exam                            |                                                                                                                                                                                                                                                                                                                       Project                                                                                                                                                                                                                                                                                                                        |\n|:------:|--------|--------|:------:|:------:|:------:|:------:|:------:|:------:|:------:|\n| [1](/content/01-content.qmd) | Sat, June 1  | Introduction to Economic Development |\n:::\n\n\n::: {.cell}\n\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

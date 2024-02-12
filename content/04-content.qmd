@@ -1,0 +1,17 @@
+---
+title: "Financial accounting I"
+date: 2023-11-15
+---
+
+## Readings
+
+-   Chapter 2 in *Financial Strategy for Public Managers* [@kioko2017]
+-   Mead, Dean Michael. “Accounting and Financial Reporting.” [@mead2013]
+-   Village of Algonquin, IL, [Annual Comprehensive Financial Report, Fiscal Year Ended April 30, 2022](https://www.algonquin.org/egov/documents/1665248548_32013.pdf)
+-   Village of Algonquin, IL, [Popular Annual Financial Report, Fiscal Year Ended April 30, 2022](https://www.algonquin.org/egov/documents/1666904875_02103.pdf)
+-   [GFOA Certificate of Achievement for Excellence in Financial Reporting Checklist](https://gfoaorg.cdn.prismic.io/gfoaorg/b5bd83c3-9e9e-4fe1-abe7-473ef50576e3_COAGeneralPurposeChecklist120821.pdf)
+-   [GFOA PAFR Award Checklist](https://gfoaorg.cdn.prismic.io/gfoaorg/b0b35aa9-44dc-4348-bb68-a9abc6b5e7e5_pafr-reviewers-checklist.pdf)
+
+## Assignments
+
+-   Contribute to the discussion board

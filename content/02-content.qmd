@@ -1,0 +1,24 @@
+---
+title: "Income & consumption taxation"
+date: 2023-11-01
+---
+
+## Readings
+
+### Income Taxes
+
+-   Pgs 101-106 in *A Budget Guide for Local Government* [@bland2019].
+-   Chapter 14 and 15 in *State & Local Public Finance* [@fisher2023].
+-   IL Commission on Government Forecasting and Accountability. 2020. "[Illinois Tax Handbook for Legislators](https://www.ilga.gov/commission/lru/2020TaxHandbook.pdf)," pg 55-65 (Individual and corporate income tax).
+-   Center for Tax and Budget Accountability. 2013. "Section 17. Local Government Revenue Sharing." in [*The Illinois State Budget and Tax Primer*](https://www.ctbaonline.org/reports/illinois-state-budget-and-tax-primer), pg 51-52.
+
+### Consumption Taxes
+
+-   Pgs 84-101 in *A Budget Guide for Local Government* [@bland2019].
+-   Chapter 14 in *State & Local Public Finance* [@fisher2023].
+-   [IL Sales & Use Taxes](https://www2.illinois.gov/rev/research/taxinformation/sales/Pages/rot.aspx).
+-   State and Local Finance Initiative, Urban Institute "[Marijuana Taxes](https://www.urban.org/policy-centers/cross-center-initiatives/state-and-local-finance-initiative/state-and-local-backgrounders/marijuana-taxes)""
+
+## Assignments
+
+-   Contribute to the discussion board

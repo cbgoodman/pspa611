@@ -1,0 +1,21 @@
+---
+title: "Cost accounting"
+date: 2023-11-29
+---
+
+## Readings 
+
+### Required
+
+-   Chapter 5 in *Financial Strategy for Public Managers* [@kioko2017]
+-   Rivenbark, William C. “A Historical Overview of Cost Accounting in Local Government.” [@rivenbark2005]
+
+### Recommended
+
+-   Chapters 3-5 in *Financial Management in the Public Sector: Tools, Applications, and Cases* [@wang2010]
+-   Mohr, Zachary T. “An Analysis of the Purposes of Cost Accounting in Large U.S. Cities.” @mohr2015
+-   Mohr, Zachary T. “Performance Measurement and Cost Accounting: Are They Complementary or Competing Systems of Control?” [@mohr2016]
+
+## Assignments
+
+-   Contribute to the discussion board

@@ -1,0 +1,20 @@
+---
+title: "Case Analysis 2"
+subtitle: "Property Tax Communications"
+date: 2023-11-26
+---
+
+## The memo
+Please prepare a memo responding to the "case" found below. Follow the standard format from PSPA 600. Failure to follow the format specified will lead to a loss of points. See the "memo resources" on the main page for more information.
+
+Be sure to thoroughly read the "case" and prepare a memo that satisfies all the requirements. You are limited to 1000 words in the main document (about two pages, single spaced) plus a one-paragraph executive summary. Please include any citations as end notes. These will not count against your word limit.
+
+## The case
+The Village of Arlington Heights is currently reevaluating its sources of revenue. Property taxes account for 31% of the village's total revenue; however, citizens have been pushback about the level of property taxation. Arlington Heights cannot eliminate property taxes, though it wants to ease the taxpayers' frustration.
+ 
+You have been tasked with providing a memorandum to the village trustees related to their use of property taxes as a revenue source and suggestions for ways to minimize citizen dissatisfaction with paying property taxes. Your memorandum should briefly explain the benefits of the local government collecting property tax and some of the reasons taxpayers are unhappy with property taxes. Your memorandum must propose various ideas for how the local government could reduce the citizens' dissatisfaction with the property taxes (and why these mechanisms are likely to work).
+
+### Context (or things to think about while writing)
+Memo 2 deals with the common dilemma facing municipalities in the state. Property taxes are high (but the village isn't the largest taxing jurisdiction), an important revenue for the village, and unlikely to change much. Yet, residents are dissatisfied, and the village manager would like you to devise a plan to help with that dissatisfaction. A common approach is devising some method of educating residents about what value they get for their tax dollars; however, this isn't the only approach. If you propose some targeted tax relief (like some of the methods in the lecture notes), make sure those kinds of programs are available to municipalities in the state (see the ILDOR property tax guide for those). Proposing an unavailable or illegal tax relief scheme does not help the village. 
+
+You'll likely want to go through Arlington Heights' website to see what information they put out about the property tax in the village. It might give you some places to start or how they've thought about this issue in the past. 

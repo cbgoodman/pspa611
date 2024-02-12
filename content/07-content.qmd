@@ -1,0 +1,26 @@
+---
+title: "Procurement & ERPs"
+date: 2023-12-06
+---
+
+## Readings
+
+### Procurement
+
+-   Coe, Charles K. “Procurement.” [@coe2013]
+-   Thai, Khi V. “Public Procurement Re-Examined.” [@thai2001]
+-   Abutabenjeh, Swansan. “Strategic Management in State Government Two Servants of the Same Master: Procurement and Finance.” [@abutabenjeh2021]
+-   Brunjes, Benjamin M. “Competition and Federal Contractor Performance.” [@brunjes2020]
+-   City of Naperville, IL, [Purchasing and Bids](https://www.naperville.il.us/government/city-finances/purchasing-and-bids/)
+
+### ERPs
+
+-   Bart Perkinsi, [What is ERP? Key features of top enterprise resource planning systems](https://www.cio.com/article/2439502/what-is-erp-key-features-of-top-enterprise-resource-planning-systems.html), *CIO*, February 22, 2019.
+-   Nathan Frey, [Is It Time for the Public Sector to Move to ERP in the Cloud?](https://isg-one.com/articles/is-it-time-for-the-public-sector-to-move-to-erp-in-the-cloud), *ISG*
+-   Mark Ressler and Jason Takenouchi, [ERP Implementations in the Public Sector: Special Challenges](https://www.govtech.com/computing/ERP-Implementations-in-the-Public-Sector-Special-Challenges-Contributed.html), *Government Technology*, October 18, 2018.
+-   Sommer, Rainer. “Public Sector ERP Implementation: Successfully Engaging Middle-Management!” [@sommer2011]
+
+### Assignments
+
+-   Write Memo 3 Case 
+-   Contribute to the discussion board

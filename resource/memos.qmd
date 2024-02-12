@@ -1,0 +1,58 @@
+---
+title: "Tips for memo success"
+---
+
+## Prereqs
+1. Read the memo prompt fully. I have received a number of well-reasoned memos on the wrong topic because the student misread the memo prompt. If you have questions, please email me about them.
+2. Page limit: 2 pages, single spaced plus a coversheet with header and executive summary (the coversheet and executive summary do not count toward the page or word count). This is approximately 1,000 words depending on your choice of font (Times New Roman preferred)
+3. This kind of writing is not easy. You'll likely need to revise your memo at least once before turning it in. Your objective is to convince me (as the decision maker) that your recommendation is one I should take. Anything that gets in the way of achieving that objective should be cut.
+
+## Structure
+### Before you write
+#### Start with an outline
+The required outline format is as follows:
+
+##### Executive Summary
+
+A short distillation of your memo. This will be approximately one paragraph.
+
+Think: What would I like a decisionmaker to know if they only read this summary? What are the most important ideas I want to convey? Note: Your recommendation must be included.
+
+
+*Page Break*
+
+##### Recommendation for Action
+
+Make a recommendation or recommendations. This will be no longer than one brief paragraph.
+
+##### Background
+
+State the key background points that are relevant to your analysis. Keep this brief (one paragraph). Weave the key story elements into the analysis as much as possible.
+
+##### Analysis
+
+This is the heart of your paper. Address the questions in the case assignment. State an answer to a problem in the case, and then support your statement with a cogent, concise argument. Be sure to support your argument with relevant literature from the course reading list. Provide citations to relevant literature in footnotes in Chicago or APA style.
+
+##### Conclusion
+
+This is a summation of your argument, no longer than one brief paragraph.
+
+#### Consider your audience
+Who are you writing this memo to? What kinds of information would they deem essential to make a decision?
+
+#### Consider your outcome
+What information are you trying to convey? Is this memo meant to inform? Or is it meant to convince? What you are ultimately trying to do should influence how you write.
+
+#### Bottom line up front
+Do not hide your recommendations from the reader. Remember: your reader is likely busy and may not fully read your memo. This is why the executive summary and the recommendations sections are essential. Think about how you can get the most important information across quickly.
+
+## Writing Style
+Below is a list of things to do and/or avoid.
+
+* **Define your acronyms**: even if you assume your audience knows them, spell out acronyms the first time you use them.
+* **Write less**: remove unnecessary words. Keep sentences to 20 or fewer words.
+* **Write in active voice**: State the actor/subject at the beginning of the sentence.
+* **Use simple words**: Check your document’s [Flesch Reading Ease](https://en.wikipedia.org/wiki/Flesch–Kincaid_readability_tests) (over 50 is excellent for business writing) and Flesch-Kincaid Grade Level (aim for Grade 8 or lower). *Here are [instructions](https://support.microsoft.com/en-us/office/get-your-document-s-readability-and-level-statistics-85b4969e-e80a-4777-8dd3-f7fc3c8b3fd2) to find Microsoft Word’s readability statistics.*
+* **Avoid weasel or filler words**: Remove vague terms and replace them with specificity. Instead of “some time ago,” write “three months ago.”
+* **Be objective**: avoid adjectives and adverbs -- Adjectives are imprecise and don’t contribute to making a decision. Replace adjectives with data.
+* S**upport your claims with data (see above)** -- If you made a specific claim, provide evidence. Either a citation to the literature or specific data (with a link to where it came from, i.e., Census Bureau)

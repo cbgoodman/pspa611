@@ -1,0 +1,20 @@
+---
+title: "Case Analysis 3"
+subtitle: "Choice of Financial Analysis"
+date: 2023-12-10
+---
+
+## The memo
+Please prepare a memo responding to the "case" found below. Follow the standard format from PSPA 600. Failure to follow the format specified will lead to a loss of points. See the "memo resources" on the main page for more information.
+Be sure to thoroughly read the "case" and prepare a memo that satisfies all the requirements. You are limited to 1000 words in the main document (about two pages, single spaced) plus a one-paragraph executive summary. Please include any citations as end notes. These will not count against your word limit.
+
+## The case
+Your village finance director has asked you to prepare a memo recommending a financial condition analysis method. The director is trying to choose among three alternatives:
+
+* The standard ratio analysis outlined in Kioko and Marlowe (or a subset of ratios)
+* Brown's 10-point test (see the update by Maher and Nollenberger)
+* Rivenbark et al (2010)'s municipal dashboard (more context in Rivenbark and Roenigk 2011)
+
+The village finance director is interested in adopting a methods that can be used to ascertain the financial health of the village relative to similar villages in the county.
+
+Your memo should briefly explain municipal/local fiscal health/condition and why your chosen analysis method best represented this concept. You are free to suggest modifications to any of the methods, but please explain the benefits of these additions if any.

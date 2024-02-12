@@ -1,0 +1,46 @@
+---
+title: "Assignments"
+---
+
+## Weekly check-in
+
+Every week, after you finish working through the content, I want to hear about what you learned and what questions you still have. This should be ≈150 words. That’s fairly short: there are ≈250 words on a typical double-spaced page in Microsoft Word (500 when single-spaced).
+
+I will grade these check-ins using a check system:
+
+* ✔+: (115 points in gradebook) Response shows phenomenal thought and engagement with the course content. I will not assign these often.
+* ✔: (100 points in gradebook) Response is thoughtful, well-written, and shows engagement with the course content. This is the expected level of performance.
+* ✔−: (50 points in gradebook) Response is hastily composed, too short, and/or only cursorily engages with the course content. This grade signals that you need to improve next time. I will hopefully not assign these often.
+
+Notice that is essentially a pass/fail or completion-based system. I’m not grading your writing ability, I’m not counting the exact number of words you’re writing, and I’m not looking for encyclopedic citations of every single reading to prove that you did indeed read everything. I’m looking for thoughtful engagement, that’s all. Do good work and you’ll get a ✓.
+
+You will submit these check-ins via Blackboard.
+
+## Memos
+
+Memo writing is a key skill in this program. Depending on your background, it may be unlike any other kind of writing you have done. Below is the standard formatting for a memo assignments in this course (and in PSPA 610).
+
+In addition to this formatting, I require a short executive summary (1 paragraph) outlining your recommendation and reasoning (on the first page). The logic is that a decision-maker can quickly read what you are recommending and why they should take that course of action. If they need further background or analysis, that's in the full memo.
+
+The department is in the process of adopting a memo writing standard and format. To maintain consistency with PSPA 610, I have included Dr. Thurmaier's [memo format](/static/files/pspa-610-memo-reqs.docx). Please abide by this formatting at all times or you will lose points.
+
+### Links for memo resources
+- [Guide to Writing an Effective Policy Memo](https://educationalequity.org/sites/default/files/documents/best_practices_-_policy_memo.pdf)
+- [Policy Memos](https://shorensteincenter.org/wp-content/uploads/2012/07/HO_Herman_Policy-Memos_9_24_12.pdf)
+- [Writing Effective Policy Memos](https://dspace.mit.edu/bitstream/handle/1721.1/36824/11-479Spring-2004/NR/rdonlyres/Urban-Studies-and-Planning/11-479Spring-2004/9CE4ACA2-EC3D-4C1D-91CC-27971E27DCF5/0/pmwriting.pdf)
+
+## Revenue analysis
+
+At the end of the course, you will demonstrate your knowledge of revenue analysis by completing a final project.
+
+Complete details for the final project are [here](revenue-analysis.qmd).
+
+There is no final exam. This project is your final exam.
+
+## Presentation
+
+Each student will conduct a brief presentation (roughly 8-12 minutes) of their revenue analysis.[^1]
+
+More guidance about the format/content of the presentation can be found [here](revenue-analysis.qmd#presentation).
+
+[^1]: Hence the need for unique local governments

@@ -1,0 +1,44 @@
+---
+title: "Property taxes & user fees"
+date: 2023-11-08
+---
+
+## Readings 
+
+### Property Taxes
+
+-   [*The Illinois Property Tax System*](https://www2.illinois.gov/rev/research/publications/Documents/localgovernment/ptax-1004.pdf), ILDOR.
+-   Chapter 3 in in *A Budget Guide for Local Government* [@bland2019].
+-   Chapter 12 in in *State & Local Public Finance* [@fisher2023].
+-   Elaine S. Povich, "[Why Are Property Taxes so Unpopular in Many States?](https://www.governing.com/news/headlines/why-are-property-taxes-so-unpopular-in-many-states.html)" *Governing*, May 14, 2014.
+-   Jason Grotto, "[How Unfair Property Taxes Keep Black Families from Gaining Wealth](https://www.bloomberg.com/news/features/2021-03-09/racial-inequality-broken-property-tax-system-blocks-black-wealth-building?sref=PLBpUhXA)." *Bloomberg Businessweek*. March 9, 2021.
+-   Christopher Ingraham, "[Home in poor neighborhoods are tax at roughly twice the rate of those in rich areas, study shows](https://www.washingtonpost.com/business/2021/03/12/property-tax-regressive/)." *The Washington Post*. March 12, 2021.
+
+### Fines & Fees
+
+-   Chapter 5 in in *A Budget Guide for Local Government* [@bland2019].
+-   Chapter 8 in in *State & Local Public Finance* [@fisher2023].
+-   Andrea Noble, "[Georgia Towns Too Reliant on Fines and Fees as a Revenue Generator](https://www.routefifty.com/finance/2019/10/report-georgia-towns-too-reliant-fines-and-fees-revenue-generator/160921/)," *Route Fifty*, October 28, 2019.
+-   Mike Maciag, "[Addicted to Fines](https://www.governing.com/topics/finance/fine-fee-revenues-special-report.html)," *Governing*, August 21, 2019.
+-   Robert Mackey, "[Tennessee Firefighters Watch Home Burn](https://thelede.blogs.nytimes.com/2010/10/06/tennessee-firefighters-watch-home-burn/)," *The Lede*, October 6, 2010.
+
+{{< video https://www.youtube.com/watch?v=PwJrPa8Ps7A >}}
+
+### Asset Forfeiture
+
+-   Sarah Stillman, "[Taken](https://www.newyorker.com/magazine/2013/08/12/taken)," *The New Yorker*, August 5, 2013.
+-   Worrall, John L. “Addicted to the Drug War.” [@worrall2001]
+-   Mughan, Siân, Danyao Li, and Sean Nicholson-Crotty. “When Law Enforcement Pays: Costs and Benefits for Elected Versus Appointed Administrators Engaged in Asset Forfeiture.” [@mughan2020]
+
+**Recommended**
+
+-   Chirico, Michael, Robert Inman, Charles Loeffler, John MacDonald, and Holger Sieg. “Deterring Property Tax Delinquency in Philadelphia: An Experimental Evaluation of Nudge Strategies.” [@chirico2019]
+
+{{< video https://www.youtube.com/watch?v=3kEpZWGgJks >}}
+{{< video https://www.youtube.com/watch?v=0UjpmT5noto >}}
+
+
+## Assignments
+
+-   Write Memo 1 Case 
+-   Contribute to the discussion board

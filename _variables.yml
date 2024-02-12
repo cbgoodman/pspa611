@@ -1,0 +1,35 @@
+author: Christopher B. Goodman
+
+orcid: 0000-0002-8565-9714
+
+instructor:
+  name: Dr. Christopher B. Goodman
+  name_no_title: Christopher B. Goodman
+  email: cgoodman@niu.edu
+  url: "https://www.cgoodman.com"
+  mastodon: "https://sciences.social/@cbgoodman"
+  bluesky: "https://bsky.app/profile/cbgoodman.bsky.social"
+  github: cbgoodman
+  office: "204 IASBO"
+  contact_policy: >-
+    E-mail is the best ways to get in contact with me. I will try to respond to all course-related e-mails within 24 hours, but also remember that life can be busy and chaotic for everyone, so if I don't respond right away, don't worry!
+  appointment_url: https://outlook.office365.com/owa/calendar/PSPA611@mail.niu.edu/bookings/
+
+course:
+  number: "PSPA 611"
+  semester: "Fall 2023"
+  days: "Wednesdays"
+  time: "5:00-10:00 PM"
+  location: "NIU-Naperville"
+  dates: "October 23-December 11, 2023"
+  github: "https://www.github.com/cbgoodman/pspa611"
+  url: "https://pspa611.cgoodman.com"
+  copyright_year: "2023"
+
+university:
+  name: Northern Illinois University
+  url: "https://www.niu.edu"
+
+school:
+  name: School of Public & Global Affairs
+  url: "https://spga.niu.edu/"

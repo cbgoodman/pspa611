@@ -1,0 +1,232 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@100..900&family=Fira+Code&family=Montserrat:wght@100..900&display=swap');
+
+/*-- scss:defaults --*/
+// * Colors
+
+$white:                       #ffffff !default;
+$grey:                        #f7f7f7 !default;
+$gray-100:                    #f8f9fa !default;
+$gray-200:                    #e9ecef !default;
+$gray-300:                    #dee2e6 !default;
+$gray-400:                    #ced4da !default;
+$gray-500:                    #adb5bd !default;
+$gray-600:                    #868e96 !default;
+$gray-700:                    #495057 !default;
+$gray-800:                    #373a3c !default;
+$gray-900:                    #212529 !default;
+$black:                       #000000 !default;
+
+$blue:                        #232a3f !default;
+$blue-alt:                    #034EA6 !default;
+$blue-dark:                   #1B1F33 !default;
+$blue-light:                  #8892AF !default;
+$blue-extra-light:            #B6BCCE !default;
+
+$orange:                      #e5a15c !default;
+
+$font-family-sans-serif:      system-ui, -apple-system, BlinkMacSystemFont, segoe ui, Helvetica, Arial, sans-serif, apple color emoji, segoe ui emoji, segoe ui symbol;
+$font-family-serif:           "Crimson Pro", serif !default;
+$font-family-code:            "Fira Code", monospace;
+
+$toc-font-family:             system-ui, -apple-system, BlinkMacSystemFont, segoe ui, Helvetica, Arial, sans-serif, apple color emoji, segoe ui emoji, segoe ui symbol;
+$toc-color:                   $blue;
+$toc-font-size:               0.8em;
+
+$headings-font-family:        system-ui, -apple-system, BlinkMacSystemFont, segoe ui, Helvetica, Arial, sans-serif, apple color emoji, segoe ui emoji, segoe ui symbol;
+$headings-font-weight:        700 !default;
+
+$footer-font-family:          system-ui, -apple-system, BlinkMacSystemFont, segoe ui, Helvetica, Arial, sans-serif, apple color emoji, segoe ui emoji, segoe ui symbol;
+$footer-font-color:           $blue-light;
+
+// Body
+$body-color:                  #333333 !default;
+
+$link-color:                  $blue-alt !default;
+$link-decoration:             none !default;
+$link-hover-color:            $blue-alt !default;
+$link-hover-decoration:       underline !default;
+
+// Nav bar
+$navbar-bg:                   $white;
+$navbar-fg:                   #656E76;
+$navbar-hl:                   $blue-alt;
+
+// Footer 
+$footer-bg:                   $blue !default;
+
+// Banner blocks
+$title-block-banner:          $white !default;
+
+/*-- scss:rules --*/
+h2 {
+    border-bottom: none;
+  }
+  
+//ul,
+//ol {
+//  font-family: $font-family-serif;
+//}
+
+// Home page stuff
+.title-block {
+    margin: 1em 0;
+    border-bottom: 3px solid $gray-200;
+    padding-bottom: 1em;
+  }
+  
+  .course-details {
+    margin: 0 0 1em;
+    border-bottom: 3px solid $gray-200;
+    padding-bottom: 1em;
+  }
+  
+  .course-details h3 {
+    margin-top: 0;
+  }
+  
+  .course-title {
+    font-size: 3.5rem;
+    margin-top: 0;
+  }
+  
+  .course-subtitle {
+    font-size: 1.7rem;
+  }
+  
+  .course-meta {
+    font-size: 1.2rem;
+    color: $gray-600;
+  }
+
+// I copied this from Font Awesome's .fa-ul since there's no way to add a class
+// to a pandoc list
+.course-details ul {
+    list-style-type: none;
+    margin-left: var(--fa-li-margin, 1.5em);  // Was originally 2.5
+    padding-left: 0;
+  }
+  .course-details ul > li {
+    position: relative;
+  }
+  
+  .contact-policy p {
+    font-size: 1rem;
+    line-height: 1.5;
+  }
+  
+  .course-details-smaller li {
+    font-size: 1rem;
+  }
+  
+  .course-details-smaller h3 {
+    font-size: 1.4rem;
+  }
+
+// Footer
+  .nav-footer {
+    align-items: flex-start;  // Align all flex items to the top
+    flex-wrap: wrap;
+    border: 0 !important;
+    min-height: 3em;
+    font-family: $footer-font-family;
+    color: $blue-light;
+
+    a {
+        color: $blue-extra-light;
+    }
+
+    a:hover {
+        color: $orange;
+    }
+
+    .faux-block {
+        display: block;
+        padding-bottom: 0.4em;
+    }
+
+    .fingerprint {
+        font-family: $font-family-monospace;
+        font-size: 0.8em;
+    }
+
+    // In the default Quarto template, .nav-footer-center has position: absolute 
+    // turned on, which makes the div not be a flex item
+    // This changes that so that it *is* a flex item
+    .nav-footer-center {
+        text-align: center;
+        position: inherit;
+        margin-top: 0;
+
+        @media (max-width: map-get($grid-breakpoints, md)) {
+            margin-top: 0.5em;
+            margin-bottom: 1.5em;
+        }
+    }
+
+    // When the screen is medium or smaller, make each footer chunk be 100% width 
+    // and centered; otherwise make them be 33% width and left/right/centerd
+    .nav-footer-left,
+    .nav-footer-right,
+    .nav-footer-center {
+        text-align: center;
+        width: 100%;
+        min-height: 2em;
+    }
+
+    @media (min-width: map-get($grid-breakpoints, md)) {
+        .nav-footer-left {
+            text-align: left;
+        }
+
+        .nav-footer-right {
+            text-align: right;
+        }
+
+        .nav-footer-left,
+        .nav-footer-right,
+        .nav-footer-center {
+            flex: 1 1 33%;
+        }
+    }
+}
+
+// Content page stuff
+// Date bar
+.date-block {
+    font-size: 1.3rem;
+  }
+  
+  .bg-content {
+    background-color: $blue-alt;
+  }
+  
+  .bg-assignment {
+    background-color: $blue-alt;
+  }
+  
+  // Slightly larger buttons
+  p a.btn, .buttons span.btn {
+    font-size: 1.2rem;
+  }
+  
+  .buttons .btn {
+    margin-bottom: 1rem;
+  }
+  
+  main {
+    // No space after lists-within-lists
+    ol ol,
+    ul ul,
+    ol ul,
+    ul ol {
+      margin-bottom: 0em;
+    }
+  
+    // But yes space after lists-within-lists when paragraphs are involved
+    ol p + ol,
+    ul p + ul,
+    ol p + ul,
+    ul p + ol {
+      margin-bottom: 1em;
+    }
+  }

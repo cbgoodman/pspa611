@@ -1,0 +1,8 @@
+.DS_Store
+.Rhistory
+/.quarto/
+/_site/
+/files/.DS_Store
+/blog/.DS_Store
+/html/.DS_Store
+/research/.DS_Store

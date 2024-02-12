@@ -1,0 +1,28 @@
+---
+title: Introduction to public finance
+date: 2023-10-25
+---
+
+## Readings
+
+### Required
+
+-   Chapters 1 and 2 in *A Budget Guide for Local Government* [@bland2019].
+-   Chapters 1, 2, and 11 in *State & Local Public Finance* [@fisher2023].
+
+*Home rule in Illinois*
+
+-   Banovetz, James M. “The Status of Illinois Home Rule, Part I: Home Rule Cities and the Voters.” [@banovetz2002]
+-   Banovetz, James M., and Thomas W. Kelty. “The Status of Illinois Home Rule, Part II: Home Rule and Taxes.” [@banovetz2003a]
+-   Banovetz, James M., and Thomas W. Kelty. “The Status of Illinois Home Rule, Part III: Do Home Rule Communities Levy More Property Taxes?” [@banovetz2003b]
+
+### Recommended
+
+-   Liz Farmer, "[The 7 Deadly Sins of Public Finance](https://www.governing.com/finance101/gov-deadly-public-finance-sins.html)" *Governing*, June, 2014.
+-   NPR Planet Money "[Episode 945: The Liberty City](https://www.npr.org/2019/10/18/771371881/episode-945-the-liberty-city)," October 18, 2019
+-   Chapter 1 in *Financial Strategy for Public Managers* [@kioko2017].
+
+## Assignments
+
+-   Get approval of your instructor for a local government annual financial report that you will review during the course. Obtain a city, county or special district finance document from your community or the community where you work (or live). The community's budget and capital improvement plan (if there is one) may also aid you in your revenue analysis. You can upload these as well. *Best option: Obtain the ACFR from your PSPA 610 community (the same as for your budget review). Contact me if you have any problems obtaining this report.*
+-   Contribute to the discussion board

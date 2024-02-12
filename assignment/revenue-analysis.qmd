@@ -1,0 +1,126 @@
+---
+title: "Revenue Analysis"
+date: 2023-12-15
+---
+
+## Paper
+
+A cohesive revenue policy is important to the efficient and effective operation of any governmental unit, yet no single revenue structure is appropriate for all types of government or government enterprises.  Indeed, no universal revenue structure is discernible _within_ a particular class of governments.  The design and administration of an appropriate revenue structure for a governmental unit is a function of the relevant economic and political environment within which the unit is operating, including the legal foundation for the unit's powers.
+
+In consultation with your instructor, choose a unit of local government in Illinois for analysis. Your paper will be an in-depth analysis of the revenue structure and revenue policy of this government. Normally, this analysis will require consideration of both the unit's **Annual Comprehensive Financial Report** and the unit's **annual budget(s)** (operating and capital budgets are both instructive) At minimum, your paper must discuss the following issues:
+
+1. Legal foundations of this type of governmental unit in Illinois.  From where does this governmental unit derive its authority? Is the government subject to Dillon's Rule?
+2. General powers and duties of this type of governmental unit. What are the responsibilities of this type of governmental unit?
+3. General history of the chosen unit.
+4. Political environment surrounding the unit and its operations. Where does the political power lie in this jurisdiction?  How has the political environment shifted over time?
+5. Economic environment and its effect on the chosen government. Be sure to discuss the resilience of the local government's finances and operations in an unstable economy.
+6. Description and explanation of the revenue structure of the unit.
+7. Critical analysis of the revenue structure of the unit.
+8. Prescriptions for improvement in the government's revenue structure.
+
+Your paper will be graded on its general structure, exposition, grammar, and cohesiveness, as well as its fulfillment of the assignment according to the rubric in this syllabus. Be sure to support your analysis with reasoning and evidence. _Be sure to acknowledge your sources in the text and in your bibliography (this includes municipal documents, websites, etc.)_. Academic dishonesty, including incomplete or inappropriate citation of sources will not be tolerated and will be grounds for penalties up to and including failure of the course or expulsion from the program or the university. It is each student's responsibility to familiarize themselves with department, college, and university policies regarding academic dishonesty, as all such policies apply to this course.
+
+Your paper should be a maximum of 20 (twenty) pages in length (~5,000 words) not including bibliography, endnotes, or tables.[^1] All other normal formatting requirements apply (12pt, Times New Roman font; double-spaced; 1 inch margins on all sides). Please submit either a **.doc/.docx** or a **PDF** file on Blackboard.
+
+### Resources
+
+**Absolutely do not hesitate** to ask me questions! I’m here to help! This can be a daunting project and asking me a quick clarifying question can solve many headaches down the line.
+
+### Suggested Outline
+
+Here’s an outline of what you’ll need to do.
+
+---
+
+#### Introduction
+
+Describe the motivation for your analysis, briefly name and describe the local government you will be analyzing, and briedly explain the usefulness of this exercise to your chosen local government. You may also include a *roadmap*, outlining the sections to come. (**≈150 words**)
+
+#### Background Information
+
+The next four (4) sections roughly map on to points *one through five* from the assignment outline above. The section is meant to lay the foundation and provide context for your analysis. These four sections should compose **25-30%** (or about 1,000 words) of your total paper.
+
+*Note*: Many of these items are incredibly intertwined. Separate treatment of these items is not required and in some instances may not be appropriate.
+
+##### Legal Foundations
+
+Exxplain the legal foundations of your local government. Does it have home rule or no? What does the answer to this question mean for the powers that can be accessed by your local government? This section is meant to lay out the boundaries of what your local government can and cannot do. (**≈250 words**)
+
+##### History
+
+Briefly explain the history of your local government. Is it an older village that's grown slowly or a new boomtown? Again, you're providing context to your analysis here. (**≈250 words**)
+
+##### Responsibilities
+
+What services and other obligations does your local government have? Are they taking full advantage of their home rule powers, if applicable? Again, context. The answers here will likely inform some of the revenue structure. (**≈250 words**)
+
+##### Political & Economic Environment
+
+What does the local politics look like? Stable? Highly contested? How's the economy? Growing? Or unstable? (**≈250 words**)
+
+#### Overview of the Revenue Structure
+
+How does your local government currently raise revenue? You may find it easier to go revenue-by-revenue here and provide summary sections at the beginning and end. What are the trends? How has the context you've provided interacted with these revenues? (**≈1,000 words**)
+
+#### Critical Analysis of the Revenue Structure
+
+This section is the meat of your analysis. Combine the background information and overview of the revenue structure to provide a critique of the existing revenue structure. If one were to examine the current revenue structure from the perspective of the *three pillars* [@bland2019], what would they conclude? Is the revenue structure highly efficient or neutral but horribly inequitable? If yes, why might that be? What circumstances led to this situation? (**≈1,000 words**)
+
+#### Policy Prescriptions & Conclusions
+
+Take your critique of your local government's revenue structure and provide a few recommendations on how they can improve (~2-4 depending on your analysis). These might be large restructurings (you might recommend that one of the few municipalities not levying a property tax begin to do so) or reasonably minor changes (if the overall revenue strucure is fairly strong). *Do not feel the need to make sweeping recommendations if they are not appropriate.* (**≈250-500 words**)
+
+
+## Presentation
+
+You will have roughly *8-12 minutes* (depending on the size of the class; the larger the class, the fewer minutes per presentaiton) to present the findings of your revenue analysis. This is your chance to show off all the neat stuff you've uncovered and show off what you've learned in this course.
+
+### Presentation Resources
+
+I am a big fan of *[Better Presentations: A Guide for Scholars, Researchers, and Wonks](https://policyviz.com/pv_books/better-presentations-a-guide-for-scholars-researchers-and-wonks/)* by Jonathan Schwabish. The book isn't particularly expensive (~$20) and will likely be useful in almost every class you have at Northern.
+
+- [Better Presentations Checklist](https://policyviz.com/2018/08/14/better-presentations-cheatsheet/)
+
+### Suggested Slides
+
+It might not seem like it, but 8-12 minutes will go by quickly during a presentation. My rule of thumb is allott no less than 1 minute per slide. That means you have **8-12 slides** to make your case. This might not seem like much, so I have provide what I would suggest as the structure of your presentation. I have erred on the side of a shorter presentation. If there is more than 8 minutes allotted, dedicate those minutes to your *critical analysis and policy recommendations*.
+
+---
+
+#### 0. Title slide
+
+I'm not counting the title slide as part of the 8, but it is obviously necessary. Tell/show the audience your local government's name and introduce yourself.
+
+#### 1. Introduction
+
+Give the audience a brief introduction to your local government. Where is it located (better, show us on a map)? When was it founded? Does it have home rule? Just the high points.
+
+#### 2. Background, Part I
+
+The next two slides are more or less interchangeable. Tell the audience about the responsibilities of the local government and its politics/economics.
+
+#### 3. Background, Part II
+
+See above.
+
+#### 4. Revenue Structure, Part I
+
+Again, the next two slides are more or less interchangeable (or a continuation of each other). Outline the revenue structure of your local government. It's likely helpful to rely on visuals here.
+
+#### 5. Revenue Structure, Part II
+
+See above.
+
+#### 6. Critical Analysis, Part I
+
+What did you find? What are the positives and negatives of the local government's revenue structure?
+
+#### 7. Critical Analysis, Part II
+
+Continued.
+
+#### 8. Policy Recommendations
+
+Given your analysis, what do you recommend? And *briefly* why?
+
+[^1]: If you feel you can cover all the topics and make your case in fewer pages, do so. There is no need to unnecessarily fill pages.

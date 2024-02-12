@@ -1,0 +1,24 @@
+---
+title: "Financial accounting II"
+date: 2023-11-22
+---
+
+## Readings 
+
+### Required
+
+-   Chapter 3 in *Financial Strategy for Public Managers* [@kioko2017]
+-   Wang, XiaoHu. “Auditing and Financial Condition.” [@wang2013]
+
+### Recommended
+
+-   Brown, Ken W. “The 10-Point Test of Financial Condition: Toward an Easy-to-Use Assessment Tool for Smaller Cities.” [@brown1993]
+-   Maher, Craig S., and Karl Knollenberger. “Revisiting Kenneth Brown’s '10-Point Test'" [@maher2009]
+-   Rivenbark, William C., Dale J. Roenigk, and Gregory S. Allison. “Conceptualizing Financial Condition in Local Government.” [@rivenbark2010]
+-   Rivenbark, William C., and Dale J. Roenigk. “Implementation of Financial Condition Analysis in Local Government.” [@rivenbark2011]
+-   Leiser, Stephanie, and Sarah Mills. “Local Government Fiscal Health: Comparing Self-Assessments to Conventional Measures.” [@leiser2019]
+
+## Assignments
+
+-   Write Memo 2 Case 
+-   Contribute to the discussion board
