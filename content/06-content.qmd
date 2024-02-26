@@ -7,7 +7,7 @@ date: 2023-11-29
 
 ### Required
 
--   Chapter 5 in *Financial Strategy for Public Managers* [@kioko2017]
+-   Chapter 5 in *Financial Strategy for Public Managers* [@kioko-marlowe]
 -   Rivenbark, William C. “A Historical Overview of Cost Accounting in Local Government.” [@rivenbark2005]
 
 ### Recommended

@@ -7,7 +7,7 @@ date: 2023-11-22
 
 ### Required
 
--   Chapter 3 in *Financial Strategy for Public Managers* [@kioko2017]
+-   Chapter 3 in *Financial Strategy for Public Managers* [@kioko-marlowe]
 -   Wang, XiaoHu. “Auditing and Financial Condition.” [@wang2013]
 
 ### Recommended

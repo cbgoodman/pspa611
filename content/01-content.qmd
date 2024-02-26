@@ -20,7 +20,7 @@ date: 2023-10-25
 
 -   Liz Farmer, "[The 7 Deadly Sins of Public Finance](https://www.governing.com/finance101/gov-deadly-public-finance-sins.html)" *Governing*, June, 2014.
 -   NPR Planet Money "[Episode 945: The Liberty City](https://www.npr.org/2019/10/18/771371881/episode-945-the-liberty-city)," October 18, 2019
--   Chapter 1 in *Financial Strategy for Public Managers* [@kioko2017].
+-   Chapter 1 in *Financial Strategy for Public Managers* [@kioko-marlowe].
 
 ## Assignments
 
