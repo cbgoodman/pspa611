@@ -1,27 +1,26 @@
 ---
 title: Schedule
 page-layout: full
-tbl-colwidths: [10,40,7.5,7.5]
+format:
+  html:
+    html-table-processing: none 
+listing:
+    - id: schedule
+      contents: schedule.yml
+      template: html/schedule.ejs
+      sort: "date asc"
+date-format: "MMMM D"
 ---
+
+
 
 This page contains an outline of the topics, content, and assignments for the semester.
 Note that this schedule will be updated as the semester progresses, with all changes documented here.
 
 ::: column-page-inset
-| **Date** | **Topic** | **Content** | **Assignment** |
-|--------|--------|:------:|:------:|
-| October 25  | **Introduction to public finance** | [{{< fa book-open-reader >}}](/content/01-content.qmd) | |
-| November 1  | **Income & consumption taxation** | [{{< fa book-open-reader >}}](/content/02-content.qmd) | |
-| November 8  | **Property taxes & user fees** | [{{< fa book-open-reader >}}](/content/03-content.qmd) | |
-| November 12 | Case 1 Due (submit by 11:59 PM) | | [{{< fa pen-ruler >}}](assignment/01-memo.qmd) |
-| November 15  | **Financial accounting I** | [{{< fa book-open-reader >}}](/content/04-content.qmd) | |
-| November 22  | **Financial accounting II** | [{{< fa book-open-reader >}}](/content/05-content.qmd) | |
-| November 26 | Case 2 Due (submit by 11:59 PM) | | [{{< fa pen-ruler >}}](assignment/02-memo.qmd) |
-| November 29  | **Cost accounting** | [{{< fa book-open-reader >}}](/content/06-content.qmd) | |
-| December 6  | **Procurement & ERPs** | [{{< fa book-open-reader >}}](/content/07-content.qmd) | |
-| December 10 | Case 3 Due (submit by 11:59 PM) | | [{{< fa pen-ruler >}}](assignment/03-memo.qmd) | 
-| December 12 | Revenue analysis presentation due (submit by 5:00 PM) | | [{{< fa pen-ruler >}}](assignment/revenue-analysis.qmd#presentation) |
-| December 13  | **What is an ideal revenue system?** | [{{< fa book-open-reader >}}](/content/08-content.qmd) | |
-| December 15 | Revenue analysis due (submit by 11:59 PM) | | [{{< fa pen-ruler >}}](assignment/revenue-analysis.qmd) |
+
+:::{#schedule} 
 :::
+
+::: 
 

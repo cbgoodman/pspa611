@@ -2,7 +2,7 @@
 title: "Public Revenue Analysis & Financial Management"
 subtitle: "Analyze public revenues and financial information to make better informed decisions"
 details: |
-  PSPA 611 • Fall 2023<br>School of Public & Global Affairs<br>Northern Illinois University
+  PSPA 611 • Fall 2025<br>School of Public & Global Affairs<br>Northern Illinois University
 sidebar: false
 toc: false
 page-layout: full

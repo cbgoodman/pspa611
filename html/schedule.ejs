@@ -1,0 +1,16 @@
+```{=html}
+<table class="caption-top table">
+   <tr class="header">
+      <th>Date</th><th>Topic</th><th style="text-align: center;">Content</th><th style="text-align: center ">Assignment</th>
+   </tr>
+
+   <% for (const item of items) { %>
+    <tr>
+      <td><%= item.date %></td>
+      <td><% if(item.content) { %><strong><%= item.title %></strong><% } else { %><%= item.title %><% } %></td>
+      <td style="text-align: center;"><% if(item.content) { %><a href="<%= item.content %>"><i class="fa-solid fa-book-open-reader" aria-label="book-open-reader"> </i></a><% } %></td>
+      <td style="text-align: center;"><% if(item.assignment) { %><a href="<%= item.assignment %>"><i class="fa-solid fa-pen-ruler" aria-label="pen-ruler"></i></a><% } %></td>
+    </tr>    
+   <% } %>
+</table>
+```

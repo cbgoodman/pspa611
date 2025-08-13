@@ -1,0 +1,39 @@
+- title: "Introduction to public finance"
+  date: 2025-08-19
+  content: "/content/01-content.qmd"
+- title: "Income & consumption taxation"
+  date: 2025-08-26
+  content: "/content/02-content.qmd"
+- title: "Property taxes & user fees"
+  date: 2025-09-02
+  content: "/content/03-content.qmd"
+- title: "Financial accounting I"
+  date: 2025-09-09
+  content: "/content/04-content.qmd"
+- title: "Financial accounting II"
+  date: 2025-09-16
+  content: "/content/05-content.qmd"
+- title: "Cost accounting"
+  date: 2025-09-23
+  content: "/content/06-content.qmd"
+- title: "Procurement & ERPs"
+  date: 2025-09-30
+  content: "/content/07-content.qmd"
+- title: "What is an ideal revenue system?"
+  date: 2025-10-07
+  content: "/content/08-content.qmd"
+- title: "Case 1 Due (submit by 11:59 PM)"
+  date: 2025-09-02
+  assignment: "assignment/01-memo.qmd"
+- title: "Case 2 Due (submit by 11:59 PM)"
+  date: 2025-09-16
+  assignment: "assignment/02-memo.qmd"
+- title: "Case 3 Due (submit by 11:59 PM)"
+  date: 2025-09-30
+  assignment: "assignment/03-memo.qmd"
+- title: "Revenue analysis presentation due (submit by 5:00 PM)"
+  date: 2025-10-07
+  assignment: "assignment/revenue-analysis.qmd#presentation"
+- title: "Revenue analysis due (submit by 11:59 PM)"
+  date: 2025-10-09
+  assignment: "assignment/revenue-analysis.qmd"

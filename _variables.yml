@@ -17,14 +17,14 @@ instructor:
 
 course:
   number: "PSPA 611"
-  semester: "Fall 2023"
-  days: "Wednesdays"
-  time: "5:00-10:00 PM"
+  semester: "Fall 2025"
+  days: "Tuesdays"
+  time: "6:00-9:30 PM"
   location: "NIU-Naperville"
-  dates: "October 23-December 11, 2023"
+  dates: "August 19-October 7, 2025"
   github: "https://www.github.com/cbgoodman/pspa611"
   url: "https://pspa611.cgoodman.com"
-  copyright_year: "2023"
+  copyright_year: "2025"
 
 university:
   name: Northern Illinois University
